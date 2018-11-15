@@ -1,0 +1,8 @@
+/*  Background Image */
+
+hr.type_5 {
+border: 0;
+height: 55px;
+background-image: url(image/type_5.png);
+background-repeat: no-repeat;
+}
